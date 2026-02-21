@@ -1,0 +1,4 @@
+Run:
+
+npm init -y
+npm install express openai
