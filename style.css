@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: linear-gradient(135deg, #141e30, #243b55);
+  color: white;
+  text-align: center;
+}
+
+.glass {
+  backdrop-filter: blur(12px);
+  background: rgba(255,255,255,0.1);
+  border-radius: 20px;
+  padding: 30px;
+  margin: 50px auto;
+  width: 80%;
+}
+
+button {
+  padding: 10px 15px;
+  margin: 10px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.task {
+  margin: 15px 0;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 10px;
+  background: rgba(0,0,0,0.4);
+}
