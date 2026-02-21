@@ -1,0 +1,28 @@
+{
+  "streak": 0,
+  "completedTasks": 0,
+  "lastCompleted": "",
+  "badges": [],
+  "routines": {
+    "school": [
+      "Answer one question in class",
+      "Talk to one new classmate",
+      "Participate in group activity"
+    ],
+    "college": [
+      "Ask one doubt in lecture",
+      "Start conversation with a peer",
+      "Share your idea in discussion"
+    ],
+    "job": [
+      "Apply to 2 jobs confidently",
+      "Practice interview question",
+      "Call a recruiter"
+    ],
+    "office": [
+      "Speak in team meeting",
+      "Give one suggestion",
+      "Network with a colleague"
+    ]
+  }
+}
